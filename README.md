@@ -95,9 +95,9 @@ Projetos utilizando React, Node.js e PostgreSQL para aprimorar conhecimentos em 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAraujodevcode&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAraujodevcode&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -107,7 +107,7 @@ Projetos utilizando React, Node.js e PostgreSQL para aprimorar conhecimentos em 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAraujodevcode&theme=tokyonight"/>
 
 </div>
 
@@ -117,7 +117,7 @@ Projetos utilizando React, Node.js e PostgreSQL para aprimorar conhecimentos em 
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB\&color=blue)
+![](https://komarev.com/ghpvc/?username=GabrielAraujodevcode\&color=blue)
 
 </div>
 
